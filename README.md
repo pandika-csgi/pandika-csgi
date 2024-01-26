@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pandika-csgi
-- 👀 I’m interested in Frontend Stuff like Angular, React, Tailwind
+- 👀 I’m interested in Frontend Stuff like Angular, Vue, Nuxt, Tailwind
 - 🌱 I’m currently learning AngularJS and Angular
 
 <!---
